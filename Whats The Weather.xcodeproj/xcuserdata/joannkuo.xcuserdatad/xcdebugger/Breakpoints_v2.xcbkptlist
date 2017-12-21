@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Whats The Weather/ViewController.swift"
+            timestampString = "535343110.25824"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Whats_The_Weather.ViewController.resultLabel.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Whats The Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joannkuo/Downloads/4.11%202/Whats%20The%20Weather/Whats%20The%20Weather/ViewController.swift"
+                  timestampString = "535342970.746967"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Whats_The_Weather.ViewController.resultLabel.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Whats The Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joannkuo/Downloads/4.11%202/Whats%20The%20Weather/Whats%20The%20Weather/ViewController.swift"
+                  timestampString = "535342970.751584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Whats_The_Weather.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Whats_The_Weather.ViewController"
+                  moduleName = "Whats The Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joannkuo/Downloads/4.11%202/Whats%20The%20Weather/Whats%20The%20Weather/ViewController.swift"
+                  timestampString = "535342970.753731"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Whats_The_Weather.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Whats_The_Weather.ViewController&gt;"
+                  moduleName = "Whats The Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/joannkuo/Downloads/4.11%202/Whats%20The%20Weather/Whats%20The%20Weather/ViewController.swift"
+                  timestampString = "535342970.755835"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
